@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitwisut Thobut
 ========================================================================================================================================
 
-Computer Engineering Student & Full-Stack Developer
+Computer Engineering Student & Full-Stack Developer 
+Chulalongkorn University
 ---------------------------------------------------
 
 I am a Computer Engineering student at Chulalongkorn University with a deep passion for building scalable web applications and exploring AI-driven solutions. My expertise spans across full-stack development, utilizing modern technologies like Next.js, ElysiaJS, and PostgreSQL, and extends into high-security systems like biometric AI recognition.
