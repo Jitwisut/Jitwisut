@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Computer Engineering Student & Full-Stack Developer 
-Chulalongkorn University
+Rangsit University
 ---------------------------------------------------
 
-I am a Computer Engineering student at Chulalongkorn University with a deep passion for building scalable web applications and exploring AI-driven solutions. My expertise spans across full-stack development, utilizing modern technologies like Next.js, ElysiaJS, and PostgreSQL, and extends into high-security systems like biometric AI recognition.
+I am a Computer Engineering student at Rangsit University with a deep passion for building scalable web applications and exploring AI-driven solutions. My expertise spans across full-stack development, utilizing modern technologies like Next.js, ElysiaJS, and PostgreSQL, and extends into high-security systems like biometric AI recognition.
 
 Beyond coding, I have a strong interest in Cybersecurity, UI/UX design (Figma), and Real-time communication (WebRTC/WebSockets). I thrive on solving complex technical challenges—whether it's optimizing search algorithms or developing interactive multiplayer platforms. I am constantly pushing the boundaries of what I can build, aiming to create software that is not only functional but also secure and user-centric.
 
