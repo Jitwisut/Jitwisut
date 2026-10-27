@@ -9,7 +9,7 @@
         <h1>Hi, I'm Jitwisut! 👋</h1>
         I'm a <b>Computer Engineering</b> student at <b>Rangsit University</b> 🇹🇭<br>
         I love building <b>web apps and back-end systems</b>, and I'm into <b>AI</b> and <b>Cybersecurity</b>.<br><br>
-        ⚡ Full-stack with Next.js, ElysiaJS / Bun, FastAPI and PostgreSQL<br>
+        ⚡ Full-stack with Next.js, ElysiaJS / Bun, FastAPI Database PostgreSQL MongoDB Clickhouse <br>
         🤖 AI agents, face recognition and real-time apps (WebRTC / WebSockets)<br>
         🧠 Currently learning <b>System Design</b>, <b>Microservices</b> and <b>CI/CD</b><br>
         🌐 Portfolio: <a href="http://portfolio-me-orcin-seven.vercel.app/">portfolio-me-orcin-seven.vercel.app</a>
