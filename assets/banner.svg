@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Jitwisut Thobut — Full-Stack, AI and Security">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#101a33"/>
+      <stop offset="1" stop-color="#0a2a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#22d3ee" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="typeName">
+      <rect x="150" y="120" height="70" width="0">
+        <animate attributeName="width" values="0;640;640" keyTimes="0;0.35;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeRole">
+      <rect x="150" y="200" height="40" width="0">
+        <animate attributeName="width" values="0;0;760;760" keyTimes="0;0.35;0.6;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#sky)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+
+  <!-- drifting particles -->
+  <g fill="#22d3ee">
+    <circle cx="1010" cy="70" r="2.5" opacity="0.7"><animate attributeName="cy" values="70;50;70" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="140" r="2" opacity="0.5"><animate attributeName="cy" values="140;118;140" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="230" r="3" fill="#a78bfa" opacity="0.6"><animate attributeName="cy" values="230;205;230" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1120" cy="250" r="2" opacity="0.6"><animate attributeName="cy" values="250;232;250" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="110" r="1.6" fill="#a78bfa" opacity="0.6"><animate attributeName="cy" values="110;94;110" dur="9s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- terminal window -->
+  <g transform="translate(110 46)">
+    <rect width="840" height="228" rx="14" fill="#0d1426" fill-opacity="0.85" stroke="#22d3ee" stroke-opacity="0.25"/>
+    <circle cx="24" cy="22" r="6" fill="#f87171"/>
+    <circle cx="44" cy="22" r="6" fill="#fbbf24"/>
+    <circle cx="64" cy="22" r="6" fill="#34d399"/>
+    <text x="420" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#64748b">~/jitwisut — zsh</text>
+    <text x="24" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#34d399">❯ <tspan fill="#cbd5e1">whoami</tspan></text>
+  </g>
+
+  <g clip-path="url(#typeName)">
+    <text x="150" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="700" fill="url(#accent)">Jitwisut Thobut</text>
+  </g>
+  <g clip-path="url(#typeRole)">
+    <text x="150" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#cbd5e1">Full-Stack Developer · AI Builder · Security Enthusiast</text>
+  </g>
+
+  <!-- caret follows the typing, then blinks -->
+  <rect y="208" width="12" height="26" fill="#22d3ee">
+    <animate attributeName="x" values="150;150;884;884" keyTimes="0;0.35;0.6;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="1080" y="296" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#64748b">Computer Engineering @ Rangsit University · Thailand 🇹🇭</text>
+</svg>

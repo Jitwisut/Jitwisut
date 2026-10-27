@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Robot cat mascot">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#334155"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <ellipse cx="120" cy="214" rx="62" ry="8" fill="#0f172a" opacity="0.35">
+    <animate attributeName="rx" values="62;54;62" dur="2.4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="2.4s" repeatCount="indefinite"/>
+
+    <!-- antenna -->
+    <line x1="120" y1="58" x2="120" y2="30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="120" cy="26" r="7" fill="#22d3ee">
+      <animate attributeName="fill" values="#22d3ee;#a78bfa;#22d3ee" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- ears -->
+    <path d="M58 92 L66 42 L104 72 Z" fill="url(#shell)" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M182 92 L174 42 L136 72 Z" fill="url(#shell)" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M70 80 L73 58 L90 72 Z" fill="#a78bfa" opacity="0.6"/>
+    <path d="M170 80 L167 58 L150 72 Z" fill="#a78bfa" opacity="0.6"/>
+
+    <!-- head -->
+    <rect x="48" y="62" width="144" height="112" rx="34" fill="url(#shell)" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="2"/>
+    <rect x="66" y="84" width="108" height="62" rx="20" fill="#0b1020"/>
+
+    <!-- eyes blink -->
+    <ellipse cx="98" cy="114" rx="11" ry="12" fill="#22d3ee">
+      <animate attributeName="ry" values="12;12;1;12;12" keyTimes="0;0.86;0.9;0.94;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="142" cy="114" rx="11" ry="12" fill="#22d3ee">
+      <animate attributeName="ry" values="12;12;1;12;12" keyTimes="0;0.86;0.9;0.94;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="102" cy="109" r="3" fill="#e0f2fe"/>
+    <circle cx="146" cy="109" r="3" fill="#e0f2fe"/>
+
+    <!-- mouth and whiskers -->
+    <path d="M112 134 Q120 141 128 134" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+    <g stroke="#94a3b8" stroke-width="2" stroke-linecap="round" opacity="0.8">
+      <line x1="40" y1="122" x2="62" y2="126"/>
+      <line x1="40" y1="136" x2="62" y2="134"/>
+      <line x1="200" y1="122" x2="178" y2="126"/>
+      <line x1="200" y1="136" x2="178" y2="134"/>
+    </g>
+
+    <!-- body -->
+    <rect x="78" y="170" width="84" height="34" rx="12" fill="url(#shell)" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="2"/>
+    <text x="120" y="193" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#22d3ee">&lt;/&gt;</text>
+  </g>
+</svg>

@@ -1,30 +1,220 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jitwisut Thobut
-========================================================================================================================================
+<div align="center">
+<a href="#"><img src="assets/banner.svg" alt="Jitwisut Thobut — Full-Stack Developer, AI Builder, Security Enthusiast" width="100%"></a>
+</div>
 
-Computer Engineering Student & Full-Stack Developer
-Rangsit University
----------------------------------------------------
+<table>
+  <tbody>
+    <tr>
+      <td width="62%">
+        <h1>Hi, I'm Jitwisut! 👋</h1>
+        I'm a <b>Computer Engineering</b> student at <b>Rangsit University</b> 🇹🇭<br>
+        I love building <b>web apps and back-end systems</b>, and I'm into <b>AI</b> and <b>Cybersecurity</b>.<br><br>
+        ⚡ Full-stack with Next.js, ElysiaJS / Bun, FastAPI and PostgreSQL<br>
+        🤖 AI agents, face recognition and real-time apps (WebRTC / WebSockets)<br>
+        🧠 Currently learning <b>System Design</b>, <b>Microservices</b> and <b>CI/CD</b><br>
+        🌐 Portfolio: <a href="http://portfolio-me-orcin-seven.vercel.app/">portfolio-me-orcin-seven.vercel.app</a>
+      </td>
+      <td width="38%" align="center">
+        <a href="#"><img src="assets/robot-cat.svg" alt="robot cat" width="200"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-I am a Computer Engineering student at Rangsit University with a deep passion for building scalable web applications and exploring AI-driven solutions. My expertise spans across full-stack development, utilizing modern technologies like Next.js, ElysiaJS, and PostgreSQL, and extends into high-security systems like biometric AI recognition.
+<br>
 
-Beyond coding, I have a strong interest in Cybersecurity, UI/UX design (Figma), and Real-time communication (WebRTC/WebSockets). I thrive on solving complex technical challenges—whether it's optimizing search algorithms or developing interactive multiplayer platforms. I am constantly pushing the boundaries of what I can build, aiming to create software that is not only functional but also secure and user-centric.
+<h2 align="center">☕ My Tech Stack ☕</h2>
 
-* 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-me-orcin-seven.vercel.app/)
-* ✉️  You can contact me at [tanzajitwisut@gmail.com](mailto:tanzajitwisut@gmail.com)
-* 🧠  I'm currently learning System Design, Microservices Architecture, Advanced CI/CD Pipelines
+<table align="center" width="100%">
+<tr>
+<td width="50%">
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+### Frontend
 
-### Socials
+<div align="center">
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#frontend"><img height="30px" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
+</div>
 
-<p align="left"> <a href="https://www.github.com/Jitwisut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@tanzajitwisut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/jitwisut-thobut-0a0994357/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+</td>
+<td width="50%">
 
-<b>My GitHub Stats</b>
+### Backend
 
-<a href="http://www.github.com/Jitwisut"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitwisut&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/ElysiaJS-7C3AED?style=for-the-badge" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></a>
+<a href="#backend"><img height="30px" src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /></a>
+</div>
 
-<a href="https://github.com/Jitwisut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitwisut&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</td>
+</tr>
+<tr>
+<td>
+
+### Languages
+
+<div align="center">
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href="#languages"><img height="30px" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" /></a>
+</div>
+
+</td>
+<td>
+
+### Databases
+
+<div align="center">
+<a href="#databases"><img height="30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="#databases"><img height="30px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#databases"><img height="30px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="#databases"><img height="30px" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" /></a>
+<a href="#databases"><img height="30px" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Tools & Others
+
+<div align="center">
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+<a href="#tools"><img height="30px" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🚀 Things I'm Building 🚀</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**⏱️ [AtoAxis](https://www.atoaxis.com)**<br>
+Hosted, WakaTime-compatible developer time tracking with AI-assistance attribution.<br>
+<sub>Rust · ClickHouse · Next.js · VS Code extension</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ [Sentinel](https://github.com/Jitwisut/AI-Sentinel)**<br>
+OpenTelemetry-native replay and observability platform for AI agents.<br>
+<sub>Rust · Python · TypeScript</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🧩 [lnwjud](https://github.com/Jitwisut/tan_mcp)**<br>
+Local AI-agent runtime and MCP gateway for Windows and macOS.<br>
+<sub>TypeScript · C# · Swift</sub>
+
+</td>
+<td valign="top">
+
+**🎙️ [JARVIS](https://github.com/Jitwisut/Jarvis)**<br>
+Thai-speaking desktop AI assistant that opens apps, searches the web and plays music.<br>
+<sub>Python · FastAPI · Gemini</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**📝 [AI Meeting Minutes](https://github.com/Jitwisut/AI-meeting)**<br>
+Thai meeting transcription → AI summary → human review → publish to SharePoint.<br>
+<sub>Python · TypeScript · Docker</sub>
+
+</td>
+<td valign="top">
+
+**🛡️ [AegisFace](https://github.com/Jitwisut/web-deepface)**<br>
+Multi-angle face recognition with 15-point registration.<br>
+<sub>Python · DeepFace</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**💬 [Tinza](https://github.com/Jitwisut/Backend-tinza)**<br>
+Random video-chat matchmaking with WebRTC signaling, interests and safety tools.<br>
+<sub>Bun · ElysiaJS · WebRTC</sub>
+
+</td>
+<td valign="top">
+
+**🤖 [robot-cat](https://github.com/Jitwisut/robot-cat)**<br>
+ESP32 mini battlebot: CAD, Fusion 360 scripts and physics simulation.<br>
+<sub>C++ · Python · MuJoCo</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2>💻 Coding Stats</h2>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
+<h2 id="github_stats" align="center">🔥 GitHub Stats 🔥</h2>
+
+<div align="center">
+
+<a href="#github_stats"><img src="https://streak-stats.demolab.com?user=Jitwisut&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
+<table>
+<tr>
+<td align="center">
+<a href="#github_stats"><img src="https://github-readme-stats.vercel.app/api?username=Jitwisut&show_icons=true&theme=tokyonight&hide_border=true" height="170px" alt="GitHub Stats" /></a>
+</td>
+<td align="center">
+<a href="#github_stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitwisut&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170px" alt="Top Languages" /></a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 🤝 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzajitwisut@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jitwisut-thobut-0a0994357/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanzajitwisut)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](http://portfolio-me-orcin-seven.vercel.app/)

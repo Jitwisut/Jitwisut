@@ -1,0 +1,28 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day at 00:00 UTC (07:00 in Thailand).
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update coding stats
+    runs-on: ubuntu-latest
+    # The built-in token commits the updated README; no personal token is needed
+    # in a profile repository.
+    permissions:
+      contents: write
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # For a WakaTime-compatible server instead of wakatime.com, set its API base here.
+          # API_BASE_URL: https://wakatime.com/api
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
+          LANG_COUNT: 8
+          IGNORED_LANGUAGES: YAML JSON Markdown
